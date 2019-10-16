@@ -1,6 +1,7 @@
 void main() {
 
   bool isActive = false;
+  int age = 45;
 
   //   if else
   if (!isActive) {
